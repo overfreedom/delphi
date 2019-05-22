@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.368,=F:\delphi workspace\Unit1.pas</Transaction>
+    <Transaction>2019-04-17 14:35:19.862,=F:\delphi workspace\Unit1.pas</Transaction>
+    <Transaction>2019-04-17 15:11:51.423,E:\mydemos\delphi\正则表达式校验\Unit1.dfm=F:\delphi workspace\Unit1.dfm</Transaction>
+    <Transaction>2019-04-17 15:11:51.423,E:\mydemos\delphi\正则表达式校验\Unit1.pas=F:\delphi workspace\Unit1.pas</Transaction>
+    <Transaction>2019-04-17 15:11:53.558,E:\mydemos\delphi\正则表达式校验\Project1.dproj=F:\delphi workspace\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

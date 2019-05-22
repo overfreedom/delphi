@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.574,F:\delphi workspace\Unit1.dfm=E:\mydemos\delphi\随机数组.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.269,F:\delphi workspace\Project1.dproj=E:\mydemos\delphi\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.574,F:\delphi workspace\Unit1.pas=E:\mydemos\delphi\随机数组.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.632,=F:\delphi workspace\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

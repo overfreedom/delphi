@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.368,=F:\delphi workspace\Unit1.pas</Transaction>
+    <Transaction>2019-05-21 10:07:21.140,=F:\delphi workspace\Unit1.pas</Transaction>
+    <Transaction>2019-05-21 10:08:57.382,E:\mydemos\delphi\RTTIDemo\RTTIHuman.pas=F:\delphi workspace\Unit1.pas</Transaction>
+    <Transaction>2019-05-21 10:08:57.382,E:\mydemos\delphi\RTTIDemo\RTTIHuman.dfm=F:\delphi workspace\Unit1.dfm</Transaction>
+    <Transaction>2019-05-21 10:09:07.967,E:\mydemos\delphi\RTTIDemo\RTTIDemo.dproj=F:\delphi workspace\Project1.dproj</Transaction>
+    <Transaction>2019-05-21 11:10:55.001,=E:\mydemos\delphi\RTTIDemo\Unit1.pas</Transaction>
+    <Transaction>2019-05-21 11:11:08.331,E:\mydemos\delphi\RTTIDemo\uHuman.pas=E:\mydemos\delphi\RTTIDemo\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
