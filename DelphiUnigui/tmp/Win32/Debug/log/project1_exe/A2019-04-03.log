@@ -1,0 +1,24 @@
+Project1.exe: 0000147C: 08:54:50 []:>--------------------------------------------------------------<
+Project1.exe: 0000147C: 08:54:50 [TUniServerModule]:Server First Init.
+Project1.exe: 0000147C: 08:54:50 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 0000147C: 08:54:50 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 0000147C: 08:54:50 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 0000147C: 08:54:50 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00000FC0: 13:25:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79
+Project1.exe: 00001898: 13:51:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79
+Project1.exe: 00001FF4: 16:16:11 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\tmp\Win32\Debug\PreDefSymbols.xml
+Project1.exe: 00002030: 17:11:03 []:>--------------------------------------------------------------<
+Project1.exe: 00002030: 17:11:03 [TUniServerModule]:Server First Init.
+Project1.exe: 00002030: 17:11:03 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00002030: 17:11:03 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00002030: 17:11:03 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00002030: 17:11:03 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00002E00: 18:01:32 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79
+Project1.exe: 00001558: 18:14:10 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79
+Project1.exe: 000017AC: 18:29:12 []:>--------------------------------------------------------------<
+Project1.exe: 000017AC: 18:29:12 [TUniServerModule]:Server First Init.
+Project1.exe: 000017AC: 18:29:12 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 000017AC: 18:29:12 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 000017AC: 18:29:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 000017AC: 18:29:12 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 000023B8: 18:29:17 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007621F5

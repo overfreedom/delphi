@@ -1,0 +1,21 @@
+Project1.exe: 00001138: 09:23:43 []:>--------------------------------------------------------------<
+Project1.exe: 00001138: 09:23:43 [TUniServerModule]:Server First Init.
+Project1.exe: 00001138: 09:23:43 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00001138: 09:23:43 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00001138: 09:23:43 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001138: 09:23:44 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00002178: 09:23:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79
+Project1.exe: 000026E0: 10:02:08 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79
+Project1.exe: 00000380: 13:21:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79
+Project1.exe: 000019CC: 13:21:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79
+Project1.exe: 00001C08: 13:21:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79
+Project1.exe: 00002C74: 13:47:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79
+Project1.exe: 00001578: 14:52:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79
+Project1.exe: 00001B20: 16:11:06 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79
+Project1.exe: 00001E04: 17:03:41 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79
+Project1.exe: 00001F10: 17:24:38 []:>--------------------------------------------------------------<
+Project1.exe: 00001F10: 17:24:38 [TUniServerModule]:Server First Init.
+Project1.exe: 00001F10: 17:24:38 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00001F10: 17:24:38 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00001F10: 17:24:38 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001F10: 17:24:38 [TUniServerModule]:HTTP Server Started on Port: 8077

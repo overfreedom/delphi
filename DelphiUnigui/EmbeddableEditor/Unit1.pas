@@ -1,0 +1,34 @@
+unit Unit1;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics,
+  Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
+  uniGUIClasses, uniGUIForm, uniGUIBaseClasses, uniSyntaxEditorBase,
+  uniSyntaxEditorEx;
+
+type
+  TUniForm1 = class(TUniForm)
+    unsyntxdtx1: TUniSyntaxEditEx;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+function UniForm1: TUniForm1;
+
+implementation
+
+{$R *.dfm}
+
+uses
+  MainModule, uniGUIApplication;
+
+function UniForm1: TUniForm1;
+begin
+  Result := TUniForm1(UniMainModule.GetFormInstance(TUniForm1));
+end;
+
+end.

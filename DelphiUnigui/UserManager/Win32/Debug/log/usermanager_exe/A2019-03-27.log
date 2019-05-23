@@ -1,0 +1,28 @@
+UserManager.exe: 00002134: 13:05:02 []:>--------------------------------------------------------------<
+UserManager.exe: 00002134: 13:05:02 [TUniServerModule]:Server First Init.
+UserManager.exe: 00002134: 13:05:02 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00002134: 13:05:02 [TUniServerModule]:Global Cache Folder Erased. <11> Files deleted.
+UserManager.exe: 00002134: 13:05:02 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00002134: 13:05:02 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 000011F4: 13:05:13 [127.0.0.1]:EFDException : [FireDAC][Comp][Clnt]-500. Application must have only single FDManager : Addr: $007C7154
+UserManager.exe: 000011B8: 13:05:14 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\favicon.ico
+UserManager.exe: 00000ECC: 13:05:22 [127.0.0.1]:EFDException : [FireDAC][Comp][Clnt]-500. Application must have only single FDManager : Addr: $007C7154
+UserManager.exe: 00002350: 13:05:31 []:>--------------------------------------------------------------<
+UserManager.exe: 00002350: 13:05:31 [TUniServerModule]:Server First Init.
+UserManager.exe: 00002350: 13:05:31 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00002350: 13:05:31 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+UserManager.exe: 00002350: 13:05:31 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00002350: 13:05:31 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 00002F74: 13:11:28 []:>--------------------------------------------------------------<
+UserManager.exe: 00002F74: 13:11:28 [TUniServerModule]:Server First Init.
+UserManager.exe: 00002F74: 13:11:28 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00002F74: 13:11:28 [TUniServerModule]:Global Cache Folder Erased. <27> Files deleted.
+UserManager.exe: 00002F74: 13:11:28 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00002F74: 13:11:28 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 0000029C: 13:11:34 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 00001AF0: 14:01:03 []:>--------------------------------------------------------------<
+UserManager.exe: 00001AF0: 14:01:03 [TUniServerModule]:Server First Init.
+UserManager.exe: 00001AF0: 14:01:03 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00001AF0: 14:01:03 [TUniServerModule]:Global Cache Folder Erased. <16> Files deleted.
+UserManager.exe: 00001AF0: 14:01:03 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00001AF0: 14:01:03 [TUniServerModule]:HTTP Server Started on Port: 8076

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.034,=E:\mydemos\DelphiUnigui\EmbeddableEditor\Main.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.158,=E:\mydemos\DelphiUnigui\EmbeddableEditor\ServerModule.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.959,=E:\mydemos\DelphiUnigui\EmbeddableEditor\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.174,=E:\mydemos\DelphiUnigui\EmbeddableEditor\MainModule.pas</Transaction>
+  </Transactions>
+</BorlandProject>

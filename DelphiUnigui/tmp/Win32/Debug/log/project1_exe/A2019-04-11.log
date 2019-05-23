@@ -1,0 +1,12 @@
+Project1.exe: 000008A8: 09:23:32 []:>--------------------------------------------------------------<
+Project1.exe: 000008A8: 09:23:32 [TUniServerModule]:Server First Init.
+Project1.exe: 000008A8: 09:23:32 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 000008A8: 09:23:32 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 000008A8: 09:23:33 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 000008A8: 09:23:33 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00001248: 13:56:45 []:>--------------------------------------------------------------<
+Project1.exe: 00001248: 13:56:45 [TUniServerModule]:Server First Init.
+Project1.exe: 00001248: 13:56:45 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00001248: 13:56:45 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00001248: 13:56:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001248: 13:56:45 [TUniServerModule]:HTTP Server Started on Port: 8077

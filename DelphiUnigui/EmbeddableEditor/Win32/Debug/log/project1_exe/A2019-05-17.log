@@ -1,0 +1,91 @@
+Project1.exe: 00002380: 10:19:08 []:>--------------------------------------------------------------<
+Project1.exe: 00002380: 10:19:08 [TUniServerModule]:Server First Init.
+Project1.exe: 00002380: 10:19:08 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00002380: 10:19:08 [TUniServerModule]:Starting HTTP Server on Port: 8066...
+Project1.exe: 00002380: 10:19:08 [TUniServerModule]:HTTP Server Started on Port: 8066
+Project1.exe: 000012C8: 10:43:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 0000052C: 11:08:09 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 0000201C: 11:08:09 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 00003C90: 11:08:09 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 00001D74: 11:08:09 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\cache\project1_exe\kDhNtVpMbR103E40F25\favicon.ico
+Project1.exe: 00002B84: 11:08:09 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 00003F70: 13:56:52 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 00000A24: 17:44:23 []:>--------------------------------------------------------------<
+Project1.exe: 00000A24: 17:44:23 [TUniServerModule]:Server First Init.
+Project1.exe: 00000A24: 17:44:23 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00000A24: 17:44:23 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00000A24: 17:44:23 [TUniServerModule]:Starting HTTP Server on Port: 8066...
+Project1.exe: 00000A24: 17:44:23 [TUniServerModule]:HTTP Server Started on Port: 8066
+Project1.exe: 00001E30: 17:44:30 [Requested Theme File not found:]:E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\[uni-js]\css\uni-xtheme-classic.css
+Project1.exe: 00001E30: 17:44:30 []:TUniThemeProps: File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\[uni-js]\css\uni-xtheme-classic.css
+Project1.exe: 000043C8: 17:44:30 [Requested Theme File not found:]:E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\[uni-js]\css\uni-xtheme-classic.css
+Project1.exe: 00003F68: 17:44:30 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\[ext-js]\build\classic\locale\locale-zh.js
+Project1.exe: 00003C40: 17:44:31 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\[ext-js]\build\classic\locale\locale-zh.js
+Project1.exe: 0000043C: 17:48:32 []:>--------------------------------------------------------------<
+Project1.exe: 0000043C: 17:48:32 [TUniServerModule]:Server First Init.
+Project1.exe: 0000043C: 17:48:32 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 0000043C: 17:48:32 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Project1.exe: 0000043C: 17:48:32 [TUniServerModule]:Starting HTTP Server on Port: 8066...
+Project1.exe: 0000043C: 17:48:32 [TUniServerModule]:HTTP Server Started on Port: 8066
+Project1.exe: 000038D8: 17:48:43 [Requested Theme File not found:]:E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\[uni-js]\css\uni-xtheme-classic.css
+Project1.exe: 000038D8: 17:48:43 []:TUniThemeProps: File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\[uni-js]\css\uni-xtheme-classic.css
+Project1.exe: 00003758: 17:48:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 00002E7C: 17:48:43 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\[ext-js]\build\classic\locale\locale-zh.js
+Project1.exe: 00002F08: 17:48:44 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\[ext-js]\build\classic\locale\locale-zh.js
+Project1.exe: 00004184: 17:49:19 []:>--------------------------------------------------------------<
+Project1.exe: 00004184: 17:49:19 [TUniServerModule]:Server First Init.
+Project1.exe: 00004184: 17:49:19 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00004184: 17:49:19 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Project1.exe: 00004184: 17:49:19 [TUniServerModule]:Starting HTTP Server on Port: 8066...
+Project1.exe: 00004184: 17:49:19 [TUniServerModule]:HTTP Server Started on Port: 8066
+Project1.exe: 00003DDC: 17:49:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 00004038: 18:09:11 []:>--------------------------------------------------------------<
+Project1.exe: 00004038: 18:09:11 [TUniServerModule]:Server First Init.
+Project1.exe: 00004038: 18:09:11 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00004038: 18:09:11 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Project1.exe: 00004038: 18:09:11 [TUniServerModule]:Starting HTTP Server on Port: 8066...
+Project1.exe: 00004038: 18:09:11 [TUniServerModule]:HTTP Server Started on Port: 8066
+Project1.exe: 000026CC: 18:09:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 00001CD8: 18:09:33 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\favicon.ico
+Project1.exe: 00003B18: 18:10:07 []:>--------------------------------------------------------------<
+Project1.exe: 00003B18: 18:10:07 [TUniServerModule]:Server First Init.
+Project1.exe: 00003B18: 18:10:07 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00003B18: 18:10:07 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Project1.exe: 00003B18: 18:10:07 [TUniServerModule]:Starting HTTP Server on Port: 8066...
+Project1.exe: 00003B18: 18:10:07 [TUniServerModule]:HTTP Server Started on Port: 8066
+Project1.exe: 00001B80: 18:10:11 [Requested Theme File not found:]:E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\css\uni-xtheme-classic.css
+Project1.exe: 00001B80: 18:10:11 []:TUniThemeProps: File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\css\uni-xtheme-classic.css
+Project1.exe: 00003EE0: 18:10:11 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 000037A4: 18:10:11 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\css\uni-ext.css
+Project1.exe: 00002F50: 18:10:11 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\ext-6.7.0\build\classic\theme-classic\resources\theme-classic-all.css
+Project1.exe: 000009A4: 18:10:11 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\ext-6.7.0\build\packages\font-awesome\resources\font-awesome-all.css
+Project1.exe: 00003E20: 18:10:11 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\ext-6.7.0\build\packages\font-pictos\resources\font-pictos-all.css
+Project1.exe: 00000B7C: 18:10:11 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\codemirror-5.25\doc\docs.css
+Project1.exe: 00003B90: 18:10:11 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\codemirror-5.25\lib\codemirror.css
+Project1.exe: 00003A3C: 18:10:11 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\css\uni-xtheme-common.css
+Project1.exe: 00003E34: 18:10:12 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\ext-6.7.0\build\ext-all.js
+Project1.exe: 00004164: 18:10:12 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\ext-6.7.0\build\classic\theme-classic\theme-classic.js
+Project1.exe: 00003FB0: 18:10:12 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\ext-unicommon-min.js
+Project1.exe: 000041FC: 18:10:12 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\ext-sync-min.js
+Project1.exe: 00001CD8: 18:10:12 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\ext-6.7.0\build\classic\locale\locale-zh.js
+Project1.exe: 000041A0: 18:10:12 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\jQuery\jquery-1.11.2.min.js
+Project1.exe: 000036E0: 18:10:12 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\jQuery\MaskedInput\jquery.inputmask.min.js
+Project1.exe: 0000341C: 18:10:12 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\jQuery\autoNumeric\autoNumeric-1.9.35.js
+Project1.exe: 00000A40: 18:10:13 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\requirejs\require.js
+Project1.exe: 00002864: 18:10:13 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\codemirror-5.25\src\Ext.ux.CodeMirror.js
+Project1.exe: 0000334C: 18:10:13 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\ext-unigui-min.js
+Project1.exe: 000033F0: 18:10:13 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\ext-6.7.0\build\classic\theme-classic\theme-classic.js
+Project1.exe: 00002380: 18:10:13 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\ext-unicommon-min.js
+Project1.exe: 00003A48: 18:10:13 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\ext-sync-min.js
+Project1.exe: 0000416C: 18:10:13 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\ext-6.7.0\build\classic\locale\locale-zh.js
+Project1.exe: 000007A8: 18:10:14 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\jQuery\jquery-1.11.2.min.js
+Project1.exe: 000040C0: 18:10:14 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\ext-6.7.0\build\packages\font-awesome\resources\font-awesome-all.css
+Project1.exe: 00003D74: 18:10:14 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\ext-6.7.0\build\packages\font-pictos\resources\font-pictos-all.css
+Project1.exe: 0000312C: 18:10:14 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\jQuery\MaskedInput\jquery.inputmask.min.js
+Project1.exe: 000040AC: 18:10:14 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\jQuery\autoNumeric\autoNumeric-1.9.35.js
+Project1.exe: 00001E4C: 18:10:15 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\codemirror-5.25\doc\docs.css
+Project1.exe: 00002284: 18:10:15 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\codemirror-5.25\lib\codemirror.css
+Project1.exe: 000023C0: 18:10:15 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\requirejs\require.js
+Project1.exe: 00002258: 18:10:15 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\codemirror-5.25\src\Ext.ux.CodeMirror.js
+Project1.exe: 000038B0: 18:10:15 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\css\uni-xtheme-common.css
+Project1.exe: 00004194: 18:10:15 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.90.0.1495\ext-unigui-min.js

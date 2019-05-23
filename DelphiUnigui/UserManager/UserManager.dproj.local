@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.968,=E:\mydemos\DelphiUnigui\UserManager\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.565,=E:\mydemos\DelphiUnigui\UserManager\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.057,=E:\mydemos\DelphiUnigui\UserManager\ModelSupport_UserManager\uLoginForm\default.txvpck</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.824,=E:\mydemos\DelphiUnigui\UserManager\ModelSupport_UserManager\Main\default.txvpck</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.983,=E:\mydemos\DelphiUnigui\UserManager\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.502,=E:\mydemos\DelphiUnigui\UserManager\ModelSupport_UserManager\default.txvpck</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.829,=E:\mydemos\DelphiUnigui\UserManager\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.047,=E:\mydemos\DelphiUnigui\UserManager\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.043,=E:\mydemos\DelphiUnigui\UserManager\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.267,=E:\mydemos\DelphiUnigui\UserManager\UIframe\uCodeEdit.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.378,E:\mydemos\DelphiUnigui\UserManager\DMAdminManager.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.573,=E:\mydemos\DelphiUnigui\UserManager\DMAdminManager.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.333,=E:\mydemos\DelphiUnigui\UserManager\ufraDeveloperManager.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.340,=E:\mydemos\DelphiUnigui\UserManager\ModelSupport_UserManager\ufraDeveloperManager\default.txvpck</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.366,=E:\mydemos\DelphiUnigui\UserManager\ModelSupport_UserManager\uRegisterForm\default.txvpck</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.150,=E:\mydemos\DelphiUnigui\UserManager\MainModule.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.898,=E:\mydemos\DelphiUnigui\UserManager\ModelSupport_UserManager\UserManager\default.txvpck</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.800,E:\mydemos\DelphiUnigui\UserManager\fraAdminManager.dfm=E:\mydemos\DelphiUnigui\UserManager\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.971,=E:\mydemos\DelphiUnigui\UserManager\ModelSupport_UserManager\fraAdminManager\default.txvpck</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.004,=E:\mydemos\DelphiUnigui\UserManager\ModelSupport_UserManager\MainModule\default.txaPackage</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.544,E:\mydemos\DelphiUnigui\UserManager\uDMAdminManager.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.800,E:\mydemos\DelphiUnigui\UserManager\fraAdminManager.pas=E:\mydemos\DelphiUnigui\UserManager\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.505,=E:\mydemos\DelphiUnigui\UserManager\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.136,=E:\mydemos\DelphiUnigui\UserManager\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.719,=E:\mydemos\DelphiUnigui\UserManager\uDMAdminManager.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.130,=E:\mydemos\DelphiUnigui\UserManager\ModelSupport_UserManager\uDMUserManager\default.txvpck</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.802,=E:\mydemos\DelphiUnigui\UserManager\ModelSupport_UserManager\MainModule\default.txvpck</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.199,=E:\mydemos\DelphiUnigui\UserManager\ModelSupport_UserManager\default.txaPackage</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.806,E:\mydemos\DelphiUnigui\UserManager\uLoginForm.pas=E:\mydemos\DelphiUnigui\UserManager\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.806,E:\mydemos\DelphiUnigui\UserManager\uLoginForm.dfm=E:\mydemos\DelphiUnigui\UserManager\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.041,E:\mydemos\DelphiUnigui\UserManager\fraDeveloperManager.pas=E:\mydemos\DelphiUnigui\UserManager\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.369,E:\mydemos\DelphiUnigui\UserManager\uRegisterForm.pas=E:\mydemos\DelphiUnigui\UserManager\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.435,=E:\mydemos\DelphiUnigui\UserManager\ModelSupport_UserManager\Main\default.txaPackage</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.690,=E:\mydemos\DelphiUnigui\UserManager\ModelSupport_UserManager\ServerModule\default.txvpck</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.041,E:\mydemos\DelphiUnigui\UserManager\fraDeveloperManager.dfm=E:\mydemos\DelphiUnigui\UserManager\Unit2.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.369,E:\mydemos\DelphiUnigui\UserManager\uRegisterForm.dfm=E:\mydemos\DelphiUnigui\UserManager\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.931,=E:\mydemos\DelphiUnigui\UserManager\Main.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.118,=E:\mydemos\DelphiUnigui\UserManager\ServerModule.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.823,=E:\mydemos\DelphiUnigui\UserManager\uDMUserManager.pas</Transaction>
+  </Transactions>
+</BorlandProject>

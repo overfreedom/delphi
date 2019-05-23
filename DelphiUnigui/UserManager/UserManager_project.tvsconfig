@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.Main" Type="System.String" Value="Main" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.MainModule" Type="System.String" Value="MainModule" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ufraDeveloperManager" Type="System.String" Value="ufraDeveloperManager" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uDMUserManager" Type="System.String" Value="uDMUserManager" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ServerModule" Type="System.String" Value="ServerModule" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.fraAdminManager" Type="System.String" Value="fraAdminManager" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.UserManager" Type="System.String" Value="UserManager" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uLoginForm" Type="System.String" Value="uLoginForm" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uRegisterForm" Type="System.String" Value="uRegisterForm" Category="General" IsBrowsable="False" />
+</TgConfig>

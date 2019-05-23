@@ -1,0 +1,5 @@
+Project1.exe: 00001614: 10:24:36 []:>--------------------------------------------------------------<
+Project1.exe: 00001614: 10:24:36 [TUniServerModule]:Server First Init.
+Project1.exe: 00001614: 10:24:36 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00001614: 10:24:36 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001614: 10:24:36 [TUniServerModule]:HTTP Server Started on Port: 8077

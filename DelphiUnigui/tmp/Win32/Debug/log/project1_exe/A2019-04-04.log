@@ -1,0 +1,46 @@
+Project1.exe: 00002500: 09:35:12 []:>--------------------------------------------------------------<
+Project1.exe: 00002500: 09:35:12 [TUniServerModule]:Server First Init.
+Project1.exe: 00002500: 09:35:12 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00002500: 09:35:12 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00002500: 09:35:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00002500: 09:35:12 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00001AD8: 11:11:27 []:>--------------------------------------------------------------<
+Project1.exe: 00001AD8: 11:11:27 [TUniServerModule]:Server First Init.
+Project1.exe: 00001AD8: 11:11:27 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00001AD8: 11:11:27 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00001AD8: 11:11:27 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001AD8: 11:11:27 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00002714: 11:13:56 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007621F5
+Project1.exe: 00001240: 11:43:42 []:>--------------------------------------------------------------<
+Project1.exe: 00001240: 11:43:42 [TUniServerModule]:Server First Init.
+Project1.exe: 00001240: 11:43:42 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00001240: 11:43:42 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Project1.exe: 00001240: 11:43:42 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001240: 11:43:42 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00000190: 11:43:54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007621F5
+Project1.exe: 000027C8: 13:03:37 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007621F5
+Project1.exe: 00002C20: 13:47:20 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007621F5
+Project1.exe: 00002924: 14:39:48 []:>--------------------------------------------------------------<
+Project1.exe: 00002924: 14:39:48 [TUniServerModule]:Server First Init.
+Project1.exe: 00002924: 14:39:48 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00002924: 14:39:48 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Project1.exe: 00002924: 14:39:48 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00002924: 14:39:48 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00002FD4: 14:47:57 []:>--------------------------------------------------------------<
+Project1.exe: 00002FD4: 14:47:57 [TUniServerModule]:Server First Init.
+Project1.exe: 00002FD4: 14:47:57 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00002FD4: 14:47:57 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Project1.exe: 00002FD4: 14:47:57 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00002FD4: 14:47:57 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 0000250C: 14:48:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007621F5
+Project1.exe: 000012C4: 14:56:58 []:>--------------------------------------------------------------<
+Project1.exe: 000012C4: 14:56:58 [TUniServerModule]:Server First Init.
+Project1.exe: 000012C4: 14:56:58 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 000012C4: 14:56:58 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Project1.exe: 000012C4: 14:56:58 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 000012C4: 14:56:58 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00001938: 14:57:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007621F5
+Project1.exe: 00000904: 14:57:16 [HandleFileRequest[127.0.0.1]]:File not found: d:\Program Files (x86)\FMSoft\Framework\unigui\uni-1.70.0.1486\codemirror-5.25\addon\hint\objectpascal-hint.js
+Project1.exe: 0000241C: 14:57:25 [HandleFileRequest[127.0.0.1]]:File not found: d:\Program Files (x86)\FMSoft\Framework\unigui\uni-1.70.0.1486\codemirror-5.25\addon\hint\objectpascal-hint.js
+Project1.exe: 00001AA8: 14:57:54 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\tmp\Win32\Debug\favicon.ico
+Project1.exe: 00001C8C: 18:04:47 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007621F5

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet version="1.0">
+  <view uin="kuqydyskgro6opvol_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="design:view:::299pqzpd4vqux7l6t_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="10,10,121,151" />
+      <reference referencedUin="delphi:e_class:src:UserManager:uLoginForm.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:UserManager:uLoginForm.TUniLoginForm1" />
+    </reference>
+    <reference referencedUin="design:view:::pmzrcpbusir_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="180,0,132,151" />
+      <property name="location_set_by_user" value="True" />
+      <reference referencedUin="delphi:e_class:src:UserManager:ServerModule.TUniServerModule" />
+      <reference referencedUin="delphi:e_class:src:UserManager:ServerModule.@unitclass" />
+    </reference>
+    <reference referencedUin="design:view:::c930dx52ukqvcz91m_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="340,0,156,151" />
+      <property name="location_set_by_user" value="True" />
+      <reference referencedUin="delphi:e_class:src:UserManager:uDMUserManager.TDMUserManager" />
+      <reference referencedUin="delphi:e_class:src:UserManager:uDMUserManager.@unitclass" />
+    </reference>
+    <reference referencedUin="design:view:::gatyv65qn9p3lzwqn_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="180,180,130,134" />
+      <property name="location_set_by_user" value="True" />
+      <reference referencedUin="delphi:e_class:src:UserManager:UserManager.@unitclass" />
+    </reference>
+    <reference referencedUin="design:view:::n6eph9s7xer1wktle_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="360,180,153,151" />
+      <property name="location_set_by_user" value="True" />
+      <reference referencedUin="delphi:e_class:src:UserManager:fraAdminManager.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:UserManager:fraAdminManager.TfraAdminManager" />
+    </reference>
+    <reference referencedUin="design:view:::hfixo6g7arqxlflwo_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="620,0,182,151" />
+      <property name="location_set_by_user" value="True" />
+      <reference referencedUin="delphi:e_class:src:UserManager:ufraDeveloperManager.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:UserManager:ufraDeveloperManager.TfraDeveloperManager" />
+    </reference>
+    <reference referencedUin="design:view:::ysn4sa80f7rtwbnyf_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="11,180,137,151" />
+      <reference referencedUin="delphi:e_class:src:UserManager:uRegisterForm.TRegisterForm" />
+      <reference referencedUin="delphi:e_class:src:UserManager:uRegisterForm.@unitclass" />
+    </reference>
+    <reference referencedUin="design:view:::vavg1sbw79pmf08ih_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="380,360,100,151" />
+      <property name="location_set_by_user" value="True" />
+      <reference referencedUin="delphi:e_class:src:UserManager:Main.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:UserManager:Main.TMainForm" />
+    </reference>
+    <reference referencedUin="design:view:::f6h2a8zt14qruiryk_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="191,369,123,151" />
+      <reference referencedUin="delphi:e_class:src:UserManager:MainModule.TUniMainModule" />
+      <reference referencedUin="delphi:e_class:src:UserManager:MainModule.@unitclass" />
+    </reference>
+  </view>
+</nodeSet>

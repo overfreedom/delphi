@@ -1,0 +1,22 @@
+Project1.exe: 00000AD0: 08:37:23 []:>--------------------------------------------------------------<
+Project1.exe: 00000AD0: 08:37:23 [TUniServerModule]:Server First Init.
+Project1.exe: 00000AD0: 08:37:23 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00000AD0: 08:37:23 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Project1.exe: 00000AD0: 08:37:23 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00000AD0: 08:37:23 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00001CDC: 11:24:18 []:>--------------------------------------------------------------<
+Project1.exe: 00001CDC: 11:24:18 [TUniServerModule]:Server First Init.
+Project1.exe: 00001CDC: 11:24:18 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00001CDC: 11:24:18 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00001CDC: 11:24:18 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001CDC: 11:24:18 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00001924: 13:26:38 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79
+Project1.exe: 000026D4: 14:11:15 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\tmp\Win32\Debug\cache\project1_exe\c6HIC64apg103AA41E0\favicon.ico
+Project1.exe: 00001F5C: 14:13:41 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79
+Project1.exe: 0000271C: 14:46:30 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79
+Project1.exe: 000011BC: 15:10:14 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79
+Project1.exe: 00002B10: 15:54:24 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79
+Project1.exe: 0000232C: 17:20:21 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79
+Project1.exe: 00000BDC: 17:20:21 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79
+Project1.exe: 00002CAC: 18:38:47 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79
+Project1.exe: 00000D94: 19:08:51 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00761A79

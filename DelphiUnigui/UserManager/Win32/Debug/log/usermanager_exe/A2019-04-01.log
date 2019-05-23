@@ -1,0 +1,32 @@
+UserManager.exe: 00000088: 10:51:12 []:>--------------------------------------------------------------<
+UserManager.exe: 00000088: 10:51:12 [TUniServerModule]:Server First Init.
+UserManager.exe: 00000088: 10:51:12 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00000088: 10:51:12 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+UserManager.exe: 00000088: 10:51:12 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00000088: 10:51:12 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 00000088: 10:51:46 [TUniServerModule]:Shutting Down Server.
+UserManager.exe: 00000088: 10:51:46 [TUniServerModule]:Stopping HTTP Server.
+UserManager.exe: 00000088: 10:51:46 [TUniServerModule]:HTTP Server Stopped.
+UserManager.exe: 00000088: 10:51:46 [TUniGUISessionManager]:Terminating Session manager.
+UserManager.exe: 00000088: 10:51:46 [TUniGUISessionManager]:Stopping Cache Eraser...
+UserManager.exe: 00000088: 10:51:46 [TUniGUISessionManager]:Cache Eraser Stopped.
+UserManager.exe: 00000088: 10:51:46 [TUniGUISessionManager]:Destroying Worker Threads.
+UserManager.exe: 00000088: 10:51:46 [TUniGUISessionManager]:Session manager terminated.
+UserManager.exe: 00000088: 10:51:47 [TUniServerModule]:Server Shutdown Completed.
+UserManager.exe: 00000088: 10:51:47 []:<-------------------------------------------------------------->
+UserManager.exe: 00000088: 10:51:47 [Terminated]:Exit Code: 0
+UserManager.exe: 00000778: 11:32:28 []:>--------------------------------------------------------------<
+UserManager.exe: 00000778: 11:32:28 [TUniServerModule]:Server First Init.
+UserManager.exe: 00000778: 11:32:28 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00000778: 11:32:28 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00000778: 11:32:28 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 00002CC4: 11:32:49 [127.0.0.1]:EFDException : [FireDAC][Comp][Clnt]-500. Application must have only single FDManager : Addr: $007C7154
+UserManager.exe: 00002FDC: 11:32:52 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\favicon.ico
+UserManager.exe: 00002DC0: 11:33:03 [127.0.0.1]:EFDException : [FireDAC][Comp][Clnt]-500. Application must have only single FDManager : Addr: $007C7154
+UserManager.exe: 00000DF0: 11:33:22 [127.0.0.1]:EFDException : [FireDAC][Comp][Clnt]-500. Application must have only single FDManager : Addr: $007C7154
+UserManager.exe: 000019A0: 11:33:53 []:>--------------------------------------------------------------<
+UserManager.exe: 000019A0: 11:33:53 [TUniServerModule]:Server First Init.
+UserManager.exe: 000019A0: 11:33:53 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 000019A0: 11:33:53 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+UserManager.exe: 000019A0: 11:33:53 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 000019A0: 11:33:53 [TUniServerModule]:HTTP Server Started on Port: 8076

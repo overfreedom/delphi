@@ -1,0 +1,116 @@
+Project1.exe: 000028C8: 14:04:53 []:>--------------------------------------------------------------<
+Project1.exe: 000028C8: 14:04:53 [TUniServerModule]:Server First Init.
+Project1.exe: 000028C8: 14:04:53 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 000028C8: 14:04:53 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 000028C8: 14:04:53 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 000022BC: 14:05:15 []:>--------------------------------------------------------------<
+Project1.exe: 000022BC: 14:05:15 [TUniServerModule]:Server First Init.
+Project1.exe: 000022BC: 14:05:15 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 000022BC: 14:05:15 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 000022BC: 14:05:15 [TUniServerModule]:Starting HTTP Server on Port: 8066...
+Project1.exe: 000022BC: 14:05:15 [TUniServerModule]:HTTP Server Started on Port: 8066
+Project1.exe: 00003CF8: 14:05:39 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\codemirror-5.25\theme\idea.css
+Project1.exe: 00000180: 14:05:39 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\codemirror-5.25\theme\monokai.css
+Project1.exe: 000032D8: 14:05:39 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\codemirror-5.25\addon\hint\show-hint.css
+Project1.exe: 00003634: 14:05:39 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\codemirror-5.25\addon\dialog\dialog.css
+Project1.exe: 00003EAC: 14:05:41 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\ext-keydown-modify.js
+Project1.exe: 000031E8: 14:12:57 []:>--------------------------------------------------------------<
+Project1.exe: 000031E8: 14:12:57 [TUniServerModule]:Server First Init.
+Project1.exe: 000031E8: 14:12:57 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 000031E8: 14:12:57 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Project1.exe: 000031E8: 14:12:57 [TUniServerModule]:Starting HTTP Server on Port: 8066...
+Project1.exe: 000031E8: 14:12:57 [TUniServerModule]:HTTP Server Started on Port: 8066
+Project1.exe: 00001FF8: 14:13:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F6FF
+Project1.exe: 0000081C: 14:13:24 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\codemirror-5.25\theme\idea.css
+Project1.exe: 00003F00: 14:13:24 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\codemirror-5.25\theme\monokai.css
+Project1.exe: 00003950: 14:13:24 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\codemirror-5.25\addon\hint\show-hint.css
+Project1.exe: 00001F40: 14:13:24 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\codemirror-5.25\addon\dialog\dialog.css
+Project1.exe: 00003434: 14:13:25 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\ext-keydown-modify.js
+Project1.exe: 00001F9C: 14:13:36 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\codemirror-5.25\theme\monokai.css
+Project1.exe: 00003A98: 14:13:36 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\codemirror-5.25\theme\idea.css
+Project1.exe: 00003908: 14:13:36 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\codemirror-5.25\addon\hint\show-hint.css
+Project1.exe: 00003044: 14:13:36 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\codemirror-5.25\addon\dialog\dialog.css
+Project1.exe: 00003948: 14:13:57 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\favicon.ico
+Project1.exe: 000028F8: 14:14:48 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\codemirror-5.25\theme\idea.css
+Project1.exe: 00003B38: 14:14:48 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\codemirror-5.25\theme\monokai.css
+Project1.exe: 00003E70: 14:14:48 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\codemirror-5.25\addon\hint\show-hint.css
+Project1.exe: 00003E58: 14:14:48 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\codemirror-5.25\addon\dialog\dialog.css
+Project1.exe: 000039EC: 14:14:49 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\ext-keydown-modify.js
+Project1.exe: 000032D4: 14:24:21 []:>--------------------------------------------------------------<
+Project1.exe: 000032D4: 14:24:21 [TUniServerModule]:Server First Init.
+Project1.exe: 000032D4: 14:24:21 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 000032D4: 14:24:21 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Project1.exe: 000032D4: 14:24:21 [TUniServerModule]:Starting HTTP Server on Port: 8066...
+Project1.exe: 000032D4: 14:24:21 [TUniServerModule]:HTTP Server Started on Port: 8066
+Project1.exe: 00003A50: 14:24:30 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F6FF
+Project1.exe: 00001694: 14:24:32 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\codemirror-5.25\theme\idea.css
+Project1.exe: 00003870: 14:24:32 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\codemirror-5.25\theme\monokai.css
+Project1.exe: 00003144: 14:24:32 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\codemirror-5.25\addon\hint\show-hint.css
+Project1.exe: 00003358: 14:24:32 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\uni-1.70.0.1486\codemirror-5.25\addon\dialog\dialog.css
+Project1.exe: 000032D4: 14:32:56 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 000032D4: 14:32:56 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 000032D4: 14:32:57 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 000032D4: 14:32:57 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 000032D4: 14:32:57 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 000032D4: 14:32:57 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 000032D4: 14:32:57 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 000032D4: 14:32:57 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 000032D4: 14:32:57 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 000032D4: 14:32:57 []:<-------------------------------------------------------------->
+Project1.exe: 000032D4: 14:32:57 [Terminated]:Exit Code: 0
+Project1.exe: 00003054: 14:33:52 []:>--------------------------------------------------------------<
+Project1.exe: 00003054: 14:33:52 [TUniServerModule]:Server First Init.
+Project1.exe: 00003054: 14:33:52 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00003054: 14:33:52 [TUniServerModule]:Starting HTTP Server on Port: 8066...
+Project1.exe: 00003054: 14:33:52 [TUniServerModule]:HTTP Server Started on Port: 8066
+Project1.exe: 000016FC: 14:34:37 []:>--------------------------------------------------------------<
+Project1.exe: 000016FC: 14:34:37 [TUniServerModule]:Server First Init.
+Project1.exe: 000016FC: 14:34:37 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 000016FC: 14:34:37 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Project1.exe: 000016FC: 14:34:37 [TUniServerModule]:Starting HTTP Server on Port: 8066...
+Project1.exe: 000016FC: 14:34:37 [TUniServerModule]:HTTP Server Started on Port: 8066
+Project1.exe: 00001314: 14:34:39 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F6FF
+Project1.exe: 00002510: 15:17:06 []:>--------------------------------------------------------------<
+Project1.exe: 00002510: 15:17:06 [TUniServerModule]:Server First Init.
+Project1.exe: 00002510: 15:17:06 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00002510: 15:17:06 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Project1.exe: 00002510: 15:17:06 [TUniServerModule]:Starting HTTP Server on Port: 8066...
+Project1.exe: 00002510: 15:17:06 [TUniServerModule]:HTTP Server Started on Port: 8066
+Project1.exe: 00000A7C: 15:17:17 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 00003E8C: 15:18:10 []:>--------------------------------------------------------------<
+Project1.exe: 00003E8C: 15:18:10 [TUniServerModule]:Server First Init.
+Project1.exe: 00003E8C: 15:18:10 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00003E8C: 15:18:10 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+Project1.exe: 00003E8C: 15:18:10 [TUniServerModule]:Starting HTTP Server on Port: 8066...
+Project1.exe: 00003E8C: 15:18:10 [TUniServerModule]:HTTP Server Started on Port: 8066
+Project1.exe: 00003F2C: 15:18:16 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 00003F98: 15:41:43 []:>--------------------------------------------------------------<
+Project1.exe: 00003F98: 15:41:43 [TUniServerModule]:Server First Init.
+Project1.exe: 00003F98: 15:41:43 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00003F98: 15:41:43 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Project1.exe: 00003F98: 15:41:43 [TUniServerModule]:Starting HTTP Server on Port: 8066...
+Project1.exe: 00003F98: 15:41:43 [TUniServerModule]:HTTP Server Started on Port: 8066
+Project1.exe: 00002D20: 15:42:12 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 000034BC: 16:36:52 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 0000413C: 16:36:53 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 0000431C: 16:36:53 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 00003D30: 16:36:53 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 0000139C: 16:36:58 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\cache\project1_exe\dQ3cNjYABl103E2DA6E\favicon.ico
+Project1.exe: 00003A44: 16:53:51 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 00001B04: 17:33:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 00004524: 18:05:04 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\EmbeddableEditor\Win32\Debug\cache\project1_exe\5LXw5HSYez103E2F77D\favicon.ico
+Project1.exe: 00004550: 18:05:04 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 000045A8: 18:05:05 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 000045B4: 18:05:05 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 000045B0: 18:05:09 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0075F8D7
+Project1.exe: 00003F98: 18:09:51 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 00003F98: 18:09:51 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 00003F98: 18:09:52 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 00003F98: 18:09:52 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 00003F98: 18:09:52 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 00003F98: 18:09:52 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 00003F98: 18:09:52 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 00003F98: 18:09:52 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 00003F98: 18:09:52 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 00003F98: 18:09:52 []:<-------------------------------------------------------------->
+Project1.exe: 00003F98: 18:09:52 [Terminated]:Exit Code: 0

@@ -1,0 +1,21 @@
+Project1.exe: 0000128C: 09:38:30 []:>--------------------------------------------------------------<
+Project1.exe: 0000128C: 09:38:30 [TUniServerModule]:Server First Init.
+Project1.exe: 0000128C: 09:38:30 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 0000128C: 09:38:30 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 0000128C: 09:38:30 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00000B10: 09:38:50 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $00469EFE
+Project1.exe: 00000AA4: 09:38:50 [HandleFileRequest[127.0.0.1]]:File not found: E:\mydemos\DelphiUnigui\Competence\Win32\Debug\favicon.ico
+Project1.exe: 00000894: 09:39:01 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $00469EFE
+Project1.exe: 00001C5C: 09:39:27 []:>--------------------------------------------------------------<
+Project1.exe: 00001C5C: 09:39:27 [TUniServerModule]:Server First Init.
+Project1.exe: 00001C5C: 09:39:27 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00001C5C: 09:39:27 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Project1.exe: 00001C5C: 09:39:27 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001C5C: 09:39:27 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 000020CC: 09:39:34 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $00469EFE
+Project1.exe: 00001F78: 09:39:45 []:>--------------------------------------------------------------<
+Project1.exe: 00001F78: 09:39:45 [TUniServerModule]:Server First Init.
+Project1.exe: 00001F78: 09:39:45 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00001F78: 09:39:45 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Project1.exe: 00001F78: 09:39:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001F78: 09:39:45 [TUniServerModule]:HTTP Server Started on Port: 8077

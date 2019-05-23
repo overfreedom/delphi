@@ -1,0 +1,97 @@
+UserManager.exe: 00001570: 09:47:56 []:>--------------------------------------------------------------<
+UserManager.exe: 00001570: 09:47:56 [TUniServerModule]:Server First Init.
+UserManager.exe: 00001570: 09:47:56 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00001570: 09:47:56 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+UserManager.exe: 00001570: 09:47:56 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00001570: 09:47:56 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 000022E4: 11:49:26 []:>--------------------------------------------------------------<
+UserManager.exe: 000022E4: 11:49:26 [TUniServerModule]:Server First Init.
+UserManager.exe: 000022E4: 11:49:26 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 000022E4: 11:49:26 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+UserManager.exe: 000022E4: 11:49:26 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 000022E4: 11:49:26 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 000027E0: 11:49:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 00002748: 11:49:40 [127.0.0.1]:EMSSQLNativeException : [FireDAC][Phys][ODBC][Microsoft][SQL Server Native Client 11.0][SQL Server]对象名 'sys_user' 无效。 : Addr: $008679D9
+UserManager.exe: 000019B8: 11:50:36 []:>--------------------------------------------------------------<
+UserManager.exe: 000019B8: 11:50:36 [TUniServerModule]:Server First Init.
+UserManager.exe: 000019B8: 11:50:36 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 000019B8: 11:50:36 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+UserManager.exe: 000019B8: 11:50:36 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 000019B8: 11:50:36 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 000001EC: 11:53:19 []:>--------------------------------------------------------------<
+UserManager.exe: 000001EC: 11:53:19 [TUniServerModule]:Server First Init.
+UserManager.exe: 000001EC: 11:53:19 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 000001EC: 11:53:19 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+UserManager.exe: 000001EC: 11:53:19 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 000001EC: 11:53:19 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 000007D4: 11:53:33 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 00000830: 11:53:51 [127.0.0.1]:EDatabaseError : undbdtuser_name: Field 'user_name' not found : Addr: $006510B6
+UserManager.exe: 00001070: 11:55:08 []:>--------------------------------------------------------------<
+UserManager.exe: 00001070: 11:55:08 [TUniServerModule]:Server First Init.
+UserManager.exe: 00001070: 11:55:08 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00001070: 11:55:08 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+UserManager.exe: 00001070: 11:55:08 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00001070: 11:55:08 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 00002454: 11:55:12 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 000026A4: 11:55:19 [fdqrysys_user: Field 'user_id' not found-127.0.0.1]:EDatabaseError : fdqrysys_user: Field 'user_id' not found : Addr: $006510B6
+UserManager.exe: 00002188: 11:55:32 []:>--------------------------------------------------------------<
+UserManager.exe: 00002188: 11:55:32 [TUniServerModule]:Server First Init.
+UserManager.exe: 00002188: 11:55:32 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00002188: 11:55:32 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+UserManager.exe: 00002188: 11:55:32 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00002188: 11:55:32 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 00002638: 11:56:09 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 00000174: 11:56:15 [fdqrysys_user: Field 'user_id' not found-127.0.0.1]:EDatabaseError : fdqrysys_user: Field 'user_id' not found : Addr: $006510B6
+UserManager.exe: 00002518: 11:57:21 []:>--------------------------------------------------------------<
+UserManager.exe: 00002518: 11:57:21 [TUniServerModule]:Server First Init.
+UserManager.exe: 00002518: 11:57:21 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00002518: 11:57:21 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+UserManager.exe: 00002518: 11:57:21 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00002518: 11:57:21 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 000000E4: 11:57:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 000026FC: 11:57:43 [fdqrysys_user: Field 'user_id' not found-127.0.0.1]:EDatabaseError : fdqrysys_user: Field 'user_id' not found : Addr: $006510B6
+UserManager.exe: 00001498: 11:58:04 []:>--------------------------------------------------------------<
+UserManager.exe: 00001498: 11:58:04 [TUniServerModule]:Server First Init.
+UserManager.exe: 00001498: 11:58:04 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00001498: 11:58:04 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+UserManager.exe: 00001498: 11:58:04 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00001498: 11:58:04 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 000026E0: 11:58:09 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 00001B78: 11:58:14 [undbdtphone: Field 'phone' not found-127.0.0.1]:EDatabaseError : undbdtphone: Field 'phone' not found : Addr: $006510B6
+UserManager.exe: 00000724: 11:58:34 []:>--------------------------------------------------------------<
+UserManager.exe: 00000724: 11:58:34 [TUniServerModule]:Server First Init.
+UserManager.exe: 00000724: 11:58:34 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00000724: 11:58:34 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+UserManager.exe: 00000724: 11:58:34 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00000724: 11:58:34 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 00001C1C: 11:58:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 000021CC: 11:58:40 [undbdtphone: Field 'phone' not found-127.0.0.1]:EDatabaseError : undbdtphone: Field 'phone' not found : Addr: $006510B6
+UserManager.exe: 00000E68: 11:59:10 []:>--------------------------------------------------------------<
+UserManager.exe: 00000E68: 11:59:10 [TUniServerModule]:Server First Init.
+UserManager.exe: 00000E68: 11:59:10 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00000E68: 11:59:10 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+UserManager.exe: 00000E68: 11:59:10 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00000E68: 11:59:10 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 00001278: 11:59:15 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 00002654: 11:59:47 []:>--------------------------------------------------------------<
+UserManager.exe: 00002654: 11:59:47 [TUniServerModule]:Server First Init.
+UserManager.exe: 00002654: 11:59:47 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00002654: 11:59:47 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+UserManager.exe: 00002654: 11:59:48 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00002654: 11:59:48 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 000024F8: 11:59:52 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 00001FDC: 12:02:17 []:>--------------------------------------------------------------<
+UserManager.exe: 00001FDC: 12:02:17 [TUniServerModule]:Server First Init.
+UserManager.exe: 00001FDC: 12:02:17 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00001FDC: 12:02:17 [TUniServerModule]:Global Cache Folder Erased. <27> Files deleted.
+UserManager.exe: 00001FDC: 12:02:17 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00001FDC: 12:02:17 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 00000E74: 12:02:30 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 000014F0: 12:03:53 []:>--------------------------------------------------------------<
+UserManager.exe: 000014F0: 12:03:53 [TUniServerModule]:Server First Init.
+UserManager.exe: 000014F0: 12:03:53 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 000014F0: 12:03:53 [TUniServerModule]:Global Cache Folder Erased. <27> Files deleted.
+UserManager.exe: 000014F0: 12:03:53 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 000014F0: 12:03:53 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 00000D88: 12:03:56 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 00000174: 12:47:06 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D

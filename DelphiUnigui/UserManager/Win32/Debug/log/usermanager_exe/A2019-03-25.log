@@ -1,0 +1,137 @@
+UserManager.exe: 000021F0: 13:10:10 []:>--------------------------------------------------------------<
+UserManager.exe: 000021F0: 13:10:10 [TUniServerModule]:Server First Init.
+UserManager.exe: 000021F0: 13:10:10 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 000021F0: 13:10:10 [TUniServerModule]:Global Cache Folder Erased. <11> Files deleted.
+UserManager.exe: 000021F0: 13:10:10 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 000021F0: 13:10:10 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 00001FCC: 13:11:20 []:>--------------------------------------------------------------<
+UserManager.exe: 00001FCC: 13:11:20 [TUniServerModule]:Server First Init.
+UserManager.exe: 00001FCC: 13:11:20 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00001FCC: 13:11:20 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+UserManager.exe: 00001FCC: 13:11:20 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00001FCC: 13:11:20 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 0000164C: 13:11:28 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 00002234: 13:11:33 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\js\bootstrap.min.js.map.
+UserManager.exe: 000017A4: 13:11:33 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\css\bootstrap.min.css.map.
+UserManager.exe: 000000E4: 13:16:31 []:>--------------------------------------------------------------<
+UserManager.exe: 000000E4: 13:16:31 [TUniServerModule]:Server First Init.
+UserManager.exe: 000000E4: 13:16:31 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 000000E4: 13:16:31 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+UserManager.exe: 000000E4: 13:16:31 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 000000E4: 13:16:31 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 00002234: 13:16:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 000017A4: 13:16:37 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\js\bootstrap.min.js.map.
+UserManager.exe: 000016A8: 13:16:37 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\css\bootstrap.min.css.map.
+UserManager.exe: 00001264: 13:27:09 []:>--------------------------------------------------------------<
+UserManager.exe: 00001264: 13:27:09 [TUniServerModule]:Server First Init.
+UserManager.exe: 00001264: 13:27:09 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00001264: 13:27:09 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+UserManager.exe: 00001264: 13:27:09 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00001264: 13:27:09 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 00001B04: 13:27:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 00001FC4: 13:27:19 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\js\bootstrap.min.js.map.
+UserManager.exe: 00000F0C: 13:27:20 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\css\bootstrap.min.css.map.
+UserManager.exe: 000025E8: 13:34:19 []:>--------------------------------------------------------------<
+UserManager.exe: 000025E8: 13:34:19 [TUniServerModule]:Server First Init.
+UserManager.exe: 000025E8: 13:34:19 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 000025E8: 13:34:19 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+UserManager.exe: 000025E8: 13:34:19 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 000025E8: 13:34:19 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 00002054: 13:34:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 00002390: 13:34:23 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\js\bootstrap.min.js.map.
+UserManager.exe: 000024C8: 13:34:23 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\css\bootstrap.min.css.map.
+UserManager.exe: 0000245C: 13:36:18 []:>--------------------------------------------------------------<
+UserManager.exe: 0000245C: 13:36:18 [TUniServerModule]:Server First Init.
+UserManager.exe: 0000245C: 13:36:18 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 0000245C: 13:36:18 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+UserManager.exe: 0000245C: 13:36:18 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 0000245C: 13:36:18 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 000017F4: 13:36:21 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 00002188: 13:36:21 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\js\bootstrap.min.js.map.
+UserManager.exe: 00001044: 13:36:22 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\css\bootstrap.min.css.map.
+UserManager.exe: 00001100: 13:39:22 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\js\bootstrap.min.js.map.
+UserManager.exe: 00001D34: 13:39:22 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\css\bootstrap.min.css.map.
+UserManager.exe: 000010AC: 13:42:25 []:>--------------------------------------------------------------<
+UserManager.exe: 000010AC: 13:42:25 [TUniServerModule]:Server First Init.
+UserManager.exe: 000010AC: 13:42:25 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 000010AC: 13:42:25 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+UserManager.exe: 000010AC: 13:42:25 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 000010AC: 13:42:25 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 0000238C: 13:42:29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 00001364: 13:42:29 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\js\bootstrap.min.js.map.
+UserManager.exe: 00001B78: 13:42:29 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\css\bootstrap.min.css.map.
+UserManager.exe: 00002154: 13:44:03 []:>--------------------------------------------------------------<
+UserManager.exe: 00002154: 13:44:03 [TUniServerModule]:Server First Init.
+UserManager.exe: 00002154: 13:44:03 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00002154: 13:44:03 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+UserManager.exe: 00002154: 13:44:03 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00002154: 13:44:03 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 00000EF8: 13:44:06 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 00002538: 13:44:07 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\js\bootstrap.min.js.map.
+UserManager.exe: 000023CC: 13:44:08 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\css\bootstrap.min.css.map.
+UserManager.exe: 000018F0: 13:44:47 []:>--------------------------------------------------------------<
+UserManager.exe: 000018F0: 13:44:47 [TUniServerModule]:Server First Init.
+UserManager.exe: 000018F0: 13:44:47 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 000018F0: 13:44:47 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+UserManager.exe: 000018F0: 13:44:47 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 000018F0: 13:44:47 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 0000135C: 13:44:49 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 0000245C: 13:44:49 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\js\bootstrap.min.js.map.
+UserManager.exe: 00000FF8: 13:44:50 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\css\bootstrap.min.css.map.
+UserManager.exe: 00001924: 13:46:26 []:>--------------------------------------------------------------<
+UserManager.exe: 00001924: 13:46:26 [TUniServerModule]:Server First Init.
+UserManager.exe: 00001924: 13:46:26 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00001924: 13:46:26 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+UserManager.exe: 00001924: 13:46:26 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00001924: 13:46:26 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 000019EC: 13:46:28 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\js\bootstrap.min.js.map.
+UserManager.exe: 00001D2C: 13:46:28 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\css\bootstrap.min.css.map.
+UserManager.exe: 000026AC: 13:46:32 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\js\bootstrap.min.js.map.
+UserManager.exe: 00000300: 13:46:32 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\css\bootstrap.min.css.map.
+UserManager.exe: 00002498: 13:46:55 []:>--------------------------------------------------------------<
+UserManager.exe: 00002498: 13:46:55 [TUniServerModule]:Server First Init.
+UserManager.exe: 00002498: 13:46:55 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00002498: 13:46:55 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+UserManager.exe: 00002498: 13:46:55 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00002498: 13:46:55 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 00001818: 13:46:58 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 00000EF8: 13:46:59 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\js\bootstrap.min.js.map.
+UserManager.exe: 000023CC: 13:46:59 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\css\bootstrap.min.css.map.
+UserManager.exe: 000024D4: 13:47:22 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\js\bootstrap.min.js.map.
+UserManager.exe: 00002054: 13:47:23 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\css\bootstrap.min.css.map.
+UserManager.exe: 000013E0: 13:48:58 []:>--------------------------------------------------------------<
+UserManager.exe: 000013E0: 13:48:58 [TUniServerModule]:Server First Init.
+UserManager.exe: 000013E0: 13:48:58 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 000013E0: 13:48:58 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+UserManager.exe: 000013E0: 13:48:58 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 000013E0: 13:48:58 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 00001EC4: 13:49:06 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 00000DD4: 13:49:07 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\js\bootstrap.min.js.map.
+UserManager.exe: 00000B48: 13:49:07 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\css\bootstrap.min.css.map.
+UserManager.exe: 00001144: 13:52:51 []:>--------------------------------------------------------------<
+UserManager.exe: 00001144: 13:52:51 [TUniServerModule]:Server First Init.
+UserManager.exe: 00001144: 13:52:51 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00001144: 13:52:51 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+UserManager.exe: 00001144: 13:52:51 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00001144: 13:52:51 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 000010C4: 13:52:54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 0000279C: 13:52:54 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\js\bootstrap.min.js.map.
+UserManager.exe: 000020D0: 13:52:55 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\css\bootstrap.min.css.map.
+UserManager.exe: 00002460: 13:53:50 []:>--------------------------------------------------------------<
+UserManager.exe: 00002460: 13:53:50 [TUniServerModule]:Server First Init.
+UserManager.exe: 00002460: 13:53:50 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00002460: 13:53:50 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+UserManager.exe: 00002460: 13:53:50 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00002460: 13:53:50 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 00001754: 13:53:53 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 00001D64: 13:53:54 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\js\bootstrap.min.js.map.
+UserManager.exe: 00001924: 13:53:54 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\css\bootstrap.min.css.map.
+UserManager.exe: 00000F58: 13:54:23 []:>--------------------------------------------------------------<
+UserManager.exe: 00000F58: 13:54:23 [TUniServerModule]:Server First Init.
+UserManager.exe: 00000F58: 13:54:23 [TUniServerModule]:Debug Mode = ON
+UserManager.exe: 00000F58: 13:54:23 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+UserManager.exe: 00000F58: 13:54:23 [TUniServerModule]:Starting HTTP Server on Port: 8076...
+UserManager.exe: 00000F58: 13:54:23 [TUniServerModule]:HTTP Server Started on Port: 8076
+UserManager.exe: 0000247C: 13:54:26 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007BED8D
+UserManager.exe: 000013C0: 13:54:26 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\js\bootstrap.min.js.map.
+UserManager.exe: 0000107C: 13:54:27 [HandleFileRequest[127.0.0.1]]:Access denied: E:\mydemos\DelphiUnigui\UserManager\Win32\Debug\files\css\bootstrap.min.css.map.

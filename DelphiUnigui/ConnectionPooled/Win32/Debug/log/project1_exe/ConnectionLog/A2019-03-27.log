@@ -1,0 +1,5 @@
+Project1.exe: 000025B0: 10:56:31 [127.0.0.1]:Failed Sequence Recovery: SeqId: 5, Event: click
+Project1.exe: 00001D38: 10:56:58 [127.0.0.1]:Failed Sequence Recovery: SeqId: 6, Event: click
+Project1.exe: 00001D38: 10:57:02 [127.0.0.1]:Processing: Id: 6, Evt: click
+Project1.exe: 000016B8: 10:57:05 [127.0.0.1]:Failed Sequence Recovery: SeqId: 5, Event: click
+Project1.exe: 00001980: 10:57:33 [127.0.0.1]:Failed Sequence Recovery: SeqId: 6, Event: click
